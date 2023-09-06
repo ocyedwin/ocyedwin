@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on https://proc.gg - platform for GenAI applications.
+- 📫 How to reach me: https://www.linkedin.com/in/ocyedwin/ or https://twitter.com/ocyedwin
+
 <!--
 **ocyedwin/ocyedwin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
