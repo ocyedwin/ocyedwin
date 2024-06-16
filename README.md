@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on https://proc.gg - platform for GenAI applications.
+- 🔭 I’m currently working on https://emereg.com - platform for AI internet.
 - 📫 How to reach me: https://www.linkedin.com/in/ocyedwin/ or https://twitter.com/ocyedwin
 
 <!--
